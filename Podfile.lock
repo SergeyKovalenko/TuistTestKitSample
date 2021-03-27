@@ -1,0 +1,20 @@
+PODS:
+  - Nimble (9.0.0)
+  - RxSwift (6.1.0)
+
+DEPENDENCIES:
+  - Nimble
+  - RxSwift
+
+SPEC REPOS:
+  trunk:
+    - Nimble
+    - RxSwift
+
+SPEC CHECKSUMS:
+  Nimble: 3b4ec3fd40f1dc178058e0981107721c615643d8
+  RxSwift: a834e5c538e89eca0cae86f403f4fbf0336786ce
+
+PODFILE CHECKSUM: 2b4636b160be9a11661a7220f2d395212c314253
+
+COCOAPODS: 1.10.1
